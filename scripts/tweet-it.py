@@ -34,11 +34,15 @@ def main(argv):
         if author_m:
           author = author_m.group(1)
 
-        tweet = title
-        if author is not None and link.find('twitter.com/') == -1:
-          tweet += ' by @' + author
+        tweet = ''
+        if link.find('twitter.com') == -1:
+          tweet = title
+          if author is not None:
+            tweet += ' by @' + author
+          tweet += ' ' + link + ' via @techspeakdigest'
+        else:
+          tweet = 'via @techspeakdigest ' + link
 
-        tweet += ' ' + link + ' via @techspeakdigest'
         url = 'https://twitter.com/home?status=' + urllib.quote(tweet.encode('utf8'))
 
         replacement = '[[' + text + '](' + link + ')][[tweet it](' + url + ')]'
