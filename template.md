@@ -10,7 +10,7 @@ This week Technically Speaking comes to you from `where`
 
 **We’d really appreciate your support for a future edition of Technically Speaking [[more info](http://www.techspeak.email/sponsorship/)].**  
 
-Our upcoming talks: Cate is speaking at [OSCON/Cultivate](http://conferences.oreilly.com/oscon/open-source-us/) in Austin and [Self.Conference](http://selfconference.org/) in Detroit in May. Chiu-Ki is running [360|AnDev in Denver, July 28-29](http://360andev.com/).
+Our upcoming talks: Chiu-Ki is running [360|AnDev in Denver, July 28-29](http://360andev.com/). Cate is co-mc at [Try!Swift NYC](http://www.tryswiftnyc.com/) in September.
 
 ## Call for Proposals
 
