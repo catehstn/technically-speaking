@@ -43,12 +43,13 @@ def main(argv):
         else:
           tweet = 'via @techspeakdigest ' + link
 
+        sys.stderr.write(link)
         url = 'https://twitter.com/home?status=' + urllib.quote(tweet.encode('utf8'))
 
         replacement = '[[' + text + '](' + link + ')][[tweet it](' + url + ')]'
         output_fp.write(line.replace(m.group(0), replacement))
 
-        sys.stderr.write(link + '\n')
+        sys.stderr.write('... Done\n')
       else:
         output_fp.write(line)
 
