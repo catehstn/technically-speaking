@@ -10,6 +10,8 @@ This week Technically Speaking comes to you from `where`
 
 **We’d really appreciate your support for a future edition of Technically Speaking [[more info](http://www.techspeak.email/sponsorship/)].**  
 
+*Technically Speaking is Open Source, which means you can find everything on [Github](https://github.com/catehstn/technically-speaking/) and you can also [submit issues](https://github.com/catehstn/technically-speaking/issues/new) with CfPs and content!*  
+
 Our upcoming talks: Chiu-Ki is running [360|AnDev in Denver, July 28-29](http://360andev.com/). Cate is co-mc at [Try!Swift NYC](http://www.tryswiftnyc.com/) in September.
 
 ## Call for Proposals
