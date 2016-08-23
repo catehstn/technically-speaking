@@ -6,19 +6,19 @@ This week we have `what`
 
 Thanks to this week's sponsor `who`
 
-This week Technically Speaking comes to you from `where` 
+This week Technically Speaking comes to you from `where`
 
 **We’d really appreciate your support for a future edition of Technically Speaking [[more info](http://www.techspeak.email/sponsorship/)].**  
 
 *Technically Speaking is Open Source, which means you can find everything on [GitHub](https://github.com/catehstn/technically-speaking/) and you can also [submit issues](https://github.com/catehstn/technically-speaking/issues/new) with CfPs and content!*  
 
-Our upcoming talks: Chiu-Ki and Cate are giving a public speaking workshop at [360|iDev](http://360idev.com/sessions/conference-proposal-writing/). Cate is co-mc at [Try!Swift NYC](http://www.tryswiftnyc.com/) in September.
+Our upcoming talks: Cate is co-mc at [Try!Swift NYC](http://www.tryswiftnyc.com/) in September.
 
 ## Call for Proposals
 
 ### Conf Title  
-*Conf tag line* 
- 
+*Conf tag line*
+
 Event date: ?  
 Location: ?  
 Submission ?  
@@ -36,8 +36,8 @@ Travel expenses covered: ?
 ## Inspiration
 
 `inspiration goes here`  
-  
-  
+
+
 This digest is brought to you by  
 Chiu-Ki [ [twitter](https://twitter.com/chiuki) | [blog](http://blog.sqisland.com/) | [lanyrd](http://lanyrd.com/profile/chiuki/) ]  
 Cate [ [twitter](https://twitter.com/catehstn) | [blog](http://www.catehuston.com/blog/) | [lanyrd](http://lanyrd.com/profile/catehstn/) ]
