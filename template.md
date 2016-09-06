@@ -12,8 +12,6 @@ This week Technically Speaking comes to you from `where`
 
 *Technically Speaking is Open Source, which means you can find everything on [GitHub](https://github.com/catehstn/technically-speaking/) and you can also [submit issues](https://github.com/catehstn/technically-speaking/issues/new) with CfPs and content!*  
 
-Our upcoming talks: Cate is co-mc at [Try!Swift NYC](http://www.tryswiftnyc.com/) in September.
-
 ## Call for Proposals
 
 ### Conf Title  
