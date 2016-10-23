@@ -43,13 +43,21 @@ def main(argv):
         else:
           tweet = 'via @techspeakdigest ' + link
 
-        sys.stderr.write(link)
-        url = 'https://twitter.com/home?status=' + urllib.quote(tweet.encode('utf8'))
+        sys.stderr.write(link + '\n')
+
+        try:
+          tweet = tweet.encode('utf8')
+        except UnicodeDecodeError:
+          pass
+
+        sys.stderr.write(tweet + '\n')
+
+        url = 'https://twitter.com/home?status=' + urllib.quote(tweet)
 
         replacement = '[[' + text + '](' + link + ')][[tweet it](' + url + ')]'
         output_fp.write(line.replace(m.group(0), replacement))
 
-        sys.stderr.write('... Done\n')
+        sys.stderr.write('... Done\n\n')
       else:
         output_fp.write(line)
 
