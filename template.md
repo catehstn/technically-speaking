@@ -38,6 +38,6 @@ Travel expenses covered: ?
 
 This digest is brought to you by  
 Chiu-Ki [ [twitter](https://twitter.com/chiuki) | [blog](http://blog.sqisland.com/) | [lanyrd](http://lanyrd.com/profile/chiuki/) ]  
-Cate [ [twitter](https://twitter.com/catehstn) | [blog](http://www.catehuston.com/blog/) | [lanyrd](http://lanyrd.com/profile/catehstn/) ]
+Cate [ [twitter](https://twitter.com/catehstn) | [blog](http://www.cate.blog/) | [lanyrd](http://lanyrd.com/profile/catehstn/) ]
 
 *With thanks to our sustaining sponsors [@Glowforge](http://twitter.com/glowforge), [@Kickstarter](http://twitter.com/kickstarter) and [@TravisCI](http://twitter.com/travisci).*
