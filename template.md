@@ -8,9 +8,6 @@ Thanks to this week's sponsor `who`
 
 This week Technically Speaking comes to you from `where`
 
-**We’d really appreciate your support for a future edition of Technically Speaking [[more info](http://www.techspeak.email/sponsorship/)].**  
-
-*Technically Speaking is Open Source, which means you can find everything on [GitHub](https://github.com/catehstn/technically-speaking/) and you can also [submit issues](https://github.com/catehstn/technically-speaking/issues/new) with CfPs and content!*  
 
 ## Call for Proposals
 
@@ -26,7 +23,6 @@ Travel expenses covered: ?
 [@conftwitterhandle](?)
 
 
-
 ## Link Roundup
 
 `links go here`
@@ -34,6 +30,12 @@ Travel expenses covered: ?
 ## Inspiration
 
 `inspiration goes here`  
+
+## Contribute
+
+Technically Speaking is Open Source, which means you can find everything on [GitHub](https://github.com/catehstn/technically-speaking/) and you can also [submit issues](https://github.com/catehstn/technically-speaking/issues/new) with CfPs and content!
+
+**We rely on our sponsors to keep Technically Speaking going, and we'd really appreciate your support for a future edition of Technically Speaking [[more info](http://www.techspeak.email/sponsorship/)].**  
 
 
 This digest is brought to you by  
