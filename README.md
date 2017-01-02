@@ -1,6 +1,12 @@
-# technically-speaking
+# Technically Speaking
 
-## Adding tweet it links
+The Open Source repository for the [Technically Speaking newsletter](http://www.techspeak.email/).
+
+## We want links from you!
+
+Please see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Internal notes: Adding tweet it links
 
 Run it like this
 `./scripts/tweet-it.py 2016/05-May/10.md`
