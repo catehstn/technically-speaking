@@ -1,14 +1,20 @@
-(Note: We require conferences to have code of conduct, and highly prefer those they pays travel expenses / speaker fee to speakers.)
+If you are submitting a link, please include:
+---------------------------------------------
+URL
+Author name
+Author twitter handle (if available)
+Your twitter handle (optional)
+Short description of what you loved about it
 
-(The title of the issue should be the CFP deadline, then the title of the conference e.g. 2016-04-29: 360|AnDev)
+Submit your own content, your friends', or something you saw on the internet. Do not self-censor. Do not try to decide if it is "worthy" or not. Just submit!
 
-### Conf Title
-*Conf tag line* 
- 
-Event date: ?
-Location: ?
-Submission deadline: ?
-Travel expenses covered: ?
-[conf link](?)
-[cfp](?)
-[@conftwitterhandle](?)
+
+If you are requesting conference suggestions, please include:
+-------------------------------------------------------------
+Your name
+Your twitter handle (if available)
+URL to your speaking profile (if available)
+Topic / area you'd like to talk about
+Where you are based, and where you'd like to speak
+
+Put "Conf suggestions for [YOUR NAME]" as the title of the issue.
