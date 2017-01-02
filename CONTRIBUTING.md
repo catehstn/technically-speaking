@@ -15,7 +15,7 @@ Yes, it is very difficult to sing your own praises, but that is precisely why yo
 
 Not an exhaustive list, just some ideas:
 * Talks you gave at meetups and conferences
-* Speaking tips / Lessons you learned
+* Speaking tips / Lessons learned
 * Your speaking journey
 * Conference report
 * Conference organizing
