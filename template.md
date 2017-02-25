@@ -8,6 +8,8 @@ Thanks to this week's sponsor `who`
 
 This week Technically Speaking comes to you from `where`
 
+Our upcoming talks: Cate is speaking at [@uikonf](http://twitter.com/uikonf) May 14-17 in Berlin and [@TheLeadDev](http://twitter.com/theleaddev) June 8-9 in London.
+
 
 ## Call for Proposals
 
