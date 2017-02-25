@@ -9,5 +9,6 @@ rm -f ${TMP_FILE}
 
 title=`echo ${title} | sed -e 's/^The Eloquent Woman: //'`
 title=`echo ${title} | sed -e 's/ . Medium$//'`
+title=`echo ${title} | sed -e 's/ . GitHub$//'`
 
-echo ${title}
+echo "${title}"
