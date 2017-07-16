@@ -8,7 +8,7 @@ Thanks to this week's sponsor `who`
 
 This week Technically Speaking comes to you from `where`
 
-Our upcoming talks: Chiu-Ki is running (and looking for sponsors for) [@360andev](http://twitter.com/360andev), July 13-14 in Denver, and teaching sketchnoting at [@WriteSpeakCode](https://twitter.com/WriteSpeakCode), August 23-26 in Portland. Cate is co-hosting [@tryswiftnyc](http://twitter.com/tryswiftnyc) September 5th and 6th in NYC and speaking at [@pragmamarkorg](http://twitter.com/pragmamarkorg) October !
+Our upcoming talks: Chiu-Ki teaching sketchnoting at [@WriteSpeakCode](https://twitter.com/WriteSpeakCode), August 23-26 in Portland. Cate is co-hosting [@tryswiftnyc](http://twitter.com/tryswiftnyc) September 5th and 6th in NYC and speaking at [@pragmamarkorg](http://twitter.com/pragmamarkorg) October!
 
 
 ## Call for Proposals
