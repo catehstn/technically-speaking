@@ -8,7 +8,7 @@ Thanks to this week's sponsor `who`
 
 This week Technically Speaking comes to you from `where`
 
-Our upcoming talks: Chiu-Ki teaching sketchnoting at [@WriteSpeakCode](https://twitter.com/WriteSpeakCode/status/882998404326072320), August 23-26 in Portland and keynoting at [@droidconDE](https://twitter.com/droidconDE/status/886944841036423169), September 3-5 in Berlin. Cate is co-hosting [@tryswiftnyc](http://twitter.com/tryswiftnyc) September 5th and 6th in NYC and speaking at [@pragmamarkorg](http://twitter.com/pragmamarkorg) October!
+Our upcoming talks: Cate is speaking at [@pragmamarkorg](http://twitter.com/pragmamarkorg) October, and [@tryswiftindia](http://twitter.com/tryswiftindia) in November.
 
 
 ## Call for Proposals
@@ -44,4 +44,4 @@ This digest is brought to you by
 Chiu-Ki [ [twitter](https://twitter.com/chiuki) | [blog](http://blog.sqisland.com/) | [lanyrd](http://lanyrd.com/profile/chiuki/) ]  
 Cate [ [twitter](https://twitter.com/catehstn) | [blog](http://www.cate.blog/) | [lanyrd](http://lanyrd.com/profile/catehstn/) ]
 
-*With thanks to our sustaining sponsors [@Glowforge](http://twitter.com/glowforge), [@TravisCI](http://twitter.com/travisci), [@Mapbox](http://twitter.com/mapbox) and our Anonymous Internet Friend.*
+*With thanks to our sustaining sponsors [@Glowforge](http://twitter.com/glowforge) and [@TravisCI](http://twitter.com/travisci).*
